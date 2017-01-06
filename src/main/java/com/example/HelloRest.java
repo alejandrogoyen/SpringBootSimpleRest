@@ -10,6 +10,6 @@ public class HelloRest
     @RequestMapping(value = "/hello", method = RequestMethod.GET)
     public String sampleOuput()
     {
-        return "Hello World!!! hi!!! theere!!!! 0909 20170105";
+        return "Hello World!!! hi!!! theere!!!! 0909 20170105-2";
     }
 }
